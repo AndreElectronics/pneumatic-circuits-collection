@@ -1,0 +1,10 @@
+# FluidSim backup files
+*.bak
+
+# Temporal files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
