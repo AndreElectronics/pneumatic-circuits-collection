@@ -20,7 +20,7 @@ Los circuitos están organizados por secuencia de operación y método de contro
 
 | Secuencia | Intuitivo | Cascada | Paso a Paso | Electro Paso a Paso |
 |-----------|---------|---------|-------------|---------------------|
-| A+ A- B+ B- | [🔜] | [🔜] | [✅] | [✅] |
+| A+ A- B+ B- | [✅] | [✅] | [✅] | [✅] |
 | A- A+ B+ B- | [🔜] | [🔜] | [🔜] | [🔜] |
 | A- A+ B- B+ | [🔜] | [🔜] | [🔜] | [🔜] |
 | A- A+ B+ B- | [🔜] | [🔜] | [🔜] | [🔜] |
@@ -50,3 +50,13 @@ Los circuitos están organizados por secuencia de operación y método de contro
 ## Herramientas Utilizadas
 - FluidSim Pneumatics
 - Diseño según métodos: intuitivo, cascada, paso a paso
+
+## Referencias 
+
+### Método Cascada
+- **Explicación detallada:** [Método Cascada Neumática - Jeff Mamut](https://jeffmamut.blogspot.com/p/metodo-cascada-neumatica.html)
+- **Ventajas:** Simplificación del diseño, reducción de componentes
+- **Aplicaciones:** Ideal para secuencias regulares y sistemas puramente neumáticos
+
+### Método Paso a paso
+- **Explicación detallada:** [NEUMATICA: Método Paso a Paso - EDUCATiA](https://educatia.com.co/neumatica-metodo-paso-a-paso/)
