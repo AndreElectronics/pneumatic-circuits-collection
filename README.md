@@ -21,7 +21,7 @@ Los circuitos están organizados por secuencia de operación y método de contro
 | Secuencia | Intuitivo | Cascada | Paso a Paso | Electro Paso a Paso |
 |-----------|---------|---------|-------------|---------------------|
 | A+ A- B+ B- | [✅] | [✅] | [✅] | [✅] |
-| A- A+ B+ B- | [🔜] | [🔜] | [🔜] | [🔜] |
+| A- A+ B+ B- | [✅] | [✅] | [✅] | [✅] |
 | A- A+ B- B+ | [🔜] | [🔜] | [🔜] | [🔜] |
 | A- A+ B+ B- | [🔜] | [🔜] | [🔜] | [🔜] |
 | A- B- A+ B+ | [🔜] | [🔜] | [🔜] | [🔜] |
