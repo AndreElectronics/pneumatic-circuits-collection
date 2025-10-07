@@ -8,3 +8,13 @@
 # System files
 .DS_Store
 Thumbs.db
+
+# Fluidsim garbage
+.WAV
+.TXT
+.ind
+.CFG
+.INI
+.opt
+.ind
+.kb
